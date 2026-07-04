@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts/schema/seedance-2-5-video-prompt.schema.json",
+  "title": "Open Seedance 2.5 Video Prompt Bundle",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "generatedAt",
+    "status",
+    "source",
+    "count",
+    "prompts"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": "2026-07-02"
+    },
+    "status": {
+      "enum": [
+        "prelaunch",
+        "ready"
+      ]
+    },
+    "generatedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "name",
+        "url",
+        "api",
+        "openRepository"
+      ]
+    },
+    "count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "prompts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "slug",
+          "title",
+          "category",
+          "tags",
+          "model",
+          "domain",
+          "inputMode",
+          "generationMode",
+          "prompt",
+          "source",
+          "attribution",
+          "review",
+          "riskNotice"
+        ],
+        "properties": {
+          "model": {
+            "const": "seedance-2-5"
+          },
+          "domain": {
+            "const": "video"
+          },
+          "inputMode": {
+            "enum": [
+              "text_to_video",
+              "image_to_video",
+              "first_last_frame_to_video",
+              "reference_to_video"
+            ]
+          },
+          "generationMode": {
+            "enum": [
+              "text-to-video",
+              "image-to-video",
+              "start-end-to-video",
+              "reference-to-video"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

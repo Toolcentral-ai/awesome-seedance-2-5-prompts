@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "2026-07-02",
+  "generatedAt": "2026-07-02T14:46:25.524Z",
+  "source": {
+    "name": "Image Prompt Gallery",
+    "url": "https://imagepromptgallery.com",
+    "api": "https://imagepromptgallery.com/api/public/prompts?domain=video&model=seedance-2-5&mediaType=video",
+    "openRepository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+    "exportSource": "snapshot-fallback"
+  },
+  "count": 0,
+  "prompts": []
+}
