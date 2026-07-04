@@ -7,9 +7,9 @@ This repository target is Image Prompt Gallery's public, source-attributed Seeda
 - Open repository target: https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts
 - Model: seedance-2-5
 - Domain: video
-- Status: prelaunch
-- Prompt count: 0
-- Generated at: 2026-07-02T14:46:25.524Z
+- Status: ready
+- Prompt count: 24
+- Generated at: 2026-07-04T12:47:31.925Z
 - Schema version: 2026-07-02
 
 ## Data Files
@@ -25,7 +25,11 @@ This repository target is Image Prompt Gallery's public, source-attributed Seeda
 
 ## Categories
 
-- No exportable categories yet.
+- Twitter Community: 9
+- One-Take Cinematography: 5
+- Music Synchronization: 4
+- Emotional Performance: 3
+- Video Editing & Remixing: 3
 
 ## Featured Prompts
 

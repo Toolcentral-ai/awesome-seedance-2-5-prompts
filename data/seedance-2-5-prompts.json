@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2026-07-02",
-  "generatedAt": "2026-07-02T14:46:25.524Z",
-  "status": "prelaunch",
+  "generatedAt": "2026-07-04T12:47:31.925Z",
+  "status": "ready",
   "source": {
     "name": "Image Prompt Gallery",
     "url": "https://imagepromptgallery.com",
@@ -9,6 +9,705 @@
     "openRepository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
     "exportSource": "snapshot-fallback"
   },
-  "count": 0,
-  "prompts": []
+  "count": 24,
+  "prompts": [
+    {
+      "id": "ipg_case_1c02bebbd7be7d8c",
+      "slug": "shark-photobomb-1c02bebbd7be7d8c",
+      "title": "Shark Photobomb",
+      "category": "Video Editing & Remixing",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "text_to_video",
+      "generationMode": "text-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "Change the woman's hairstyle in video 1 to red long hair, the great white shark from image 1 slowly surfaces with half its head behind her.",
+      "source": {
+        "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/51",
+        "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/51",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_2411b7aa89b29f68",
+      "slug": "vortex-over-the-city-2411b7aa89b29f68",
+      "title": "Vortex Over the City",
+      "category": "Twitter Community",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "text_to_video",
+      "generationMode": "text-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "a man in a black jacket stands in a futuristic city at night, looking up at a massive glowing blue vortex in the sky, surrounded by towering skyscrapers with neon lights, cinematic lighting, wide-angle shot, dramatic perspective",
+      "source": {
+        "caseUrl": "https://x.com/Pixmax_ai/status/2064593399882432615",
+        "originalUrl": "https://x.com/Pixmax_ai/status/2064593399882432615",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_2777a8346b2a273d",
+      "slug": "parkour-chase-sequence-2777a8346b2a273d",
+      "title": "Parkour Chase Sequence",
+      "category": "One-Take Cinematography",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "image_to_video",
+      "generationMode": "image-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "@image1 @image2 @image3 @image4 @image5, one continuous take tracking shot, following the runner from the street up stairs, through corridors, entering rooftop, finally overlooking the city.",
+      "source": {
+        "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/43",
+        "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/43",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_40eedbe96cdadedd",
+      "slug": "cozy-cabin-tea-time-40eedbe96cdadedd",
+      "title": "Cozy Cabin Tea Time",
+      "category": "One-Take Cinematography",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "image_to_video",
+      "generationMode": "image-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "Based on the exterior shot of @image1, first-person subjective perspective quick push camera to the interior environment close-up of the wooden cabin. A small deer @image2 and a sheep @image3 are drinking tea and chatting by the fireplace. Camera pushes in for close-up, teacup style references @image4.",
+      "source": {
+        "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/46",
+        "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/46",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_4647f964b5916fa5",
+      "slug": "spy-thriller-tail-4647f964b5916fa5",
+      "title": "Spy Thriller Tail",
+      "category": "One-Take Cinematography",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "image_to_video",
+      "generationMode": "image-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "Spy thriller style, @image1 as the first frame, camera front tracking shot of female agent in red trench coat walking forward, camera full shot following, constantly with pedestrians blocking the woman in red. Walking to a corner, reference the corner architecture of @image2, fixed camera as the woman in red leaves the frame, disappearing at the corner. A masked girl hides at the corner viciously staring at her, masked girl image references @image3, only reference the image, girl stands at the corner. Camera pans forward toward the female agent in red, she walks into a mansion and disappears, mansion references @image4. No camera cuts throughout, one continuous take.",
+      "source": {
+        "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/45",
+        "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/45",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_5b442e28ead8eee5",
+      "slug": "dark-fantasy-battle-with-practical-effects-5b442e28ead8eee5",
+      "title": "Dark Fantasy Battle with Practical Effects",
+      "category": "Twitter Community",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "text_to_video",
+      "generationMode": "text-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "15-second dark fantasy battle. Seedance 2.0. Zero post. Zero upscaling. Low sharpness + practical effect aesthetic.",
+      "source": {
+        "caseUrl": "https://x.com/BuildFastWithAI/status/2064595921443139684",
+        "originalUrl": "https://x.com/BuildFastWithAI/status/2064595921443139684",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_5d0753a7de87b317",
+      "slug": "sci-fi-robotic-spider-on-a-running-track-5d0753a7de87b317",
+      "title": "Sci-Fi Robotic Spider on a Running Track",
+      "category": "Twitter Community",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "text_to_video",
+      "generationMode": "text-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "A fast-paced sci-fi video sequence on a high school running track under a dark, overcast sky. A blonde woman in a navy and white tracksuit walks confidently forward as students flee. A robotic spider on her wrist rapidly expands",
+      "source": {
+        "caseUrl": "https://x.com/AvelyrahnAI/status/2064608055908868501",
+        "originalUrl": "https://x.com/AvelyrahnAI/status/2064608055908868501",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_60a6c8a0b89e8d5b",
+      "slug": "cooking-contrast-comedy-60a6c8a0b89e8d5b",
+      "title": "Cooking Contrast Comedy",
+      "category": "Emotional Performance",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "image_to_video",
+      "generationMode": "image-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "This is a range hood advertisement. @image1 as the first frame, woman elegantly cooking, no smoke. Camera quickly pans right, shooting @image2 man sweating profusely and flushed cooking, thick smoke rolling. Camera pans left and pushes in to shoot a range hood on the table of @image1, range hood references @image4, range hood frantically extracting smoke.",
+      "source": {
+        "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/58",
+        "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/58",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_66a91fa33fdf0525",
+      "slug": "serious-business-to-snack-deal-66a91fa33fdf0525",
+      "title": "Serious Business to Snack Deal",
+      "category": "Video Editing & Remixing",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "reference_to_video",
+      "generationMode": "reference-to-video",
+      "durationSeconds": 3,
+      "aspectRatio": "1:1",
+      "prompt": "Subvert the entire plot of @video1. 0–3 seconds: Man in suit sits at bar, expression calm, lightly swirling wine glass in hand. Camera slowly pushes in, lighting sophisticated, atmosphere serious. Ambient sound low, man in suit says quietly 'This deal is big.' 3–6 seconds: Woman behind with tense expression asks 'How big?' Man in suit looks up, voice lowered: 'Very big.' Camera cuts to hand close-up—he puts down the wine glass, aura maxed out. 6–9 seconds: Suddenly the man in suit pulls out from under the table—a large package of exaggerated volume snack gift pack, 'thud' heavily placed on the table. 9–12 seconds: The woman's hands originally at her waist, muscles from stiff to relaxed, whole person's expression relaxes. Screen atmosphere lightens. 13–15 seconds: Man in suit takes out a pack of snacks for the woman, camera pulls back showing full bar scene, screen becomes transparent and blurry—subtitle pops up 'No matter how busy, remember to eat some snacks~'",
+      "source": {
+        "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/49",
+        "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/49",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_87fa21ce8a43de0a",
+      "slug": "coffee-power-87fa21ce8a43de0a",
+      "title": "Coffee Power",
+      "category": "Twitter Community",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "reference_to_video",
+      "generationMode": "reference-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "a vibrant animated scene of a woman surrounded by glowing golden energy, holding a coffee cup, with multiple versions of her and coworkers in an office environment, all expressing excitement and productivity, cinematic lighting, dynamic composition, 3D animation style",
+      "source": {
+        "caseUrl": "https://x.com/minchinEdits/status/2064606613865103832",
+        "originalUrl": "https://x.com/minchinEdits/status/2064606613865103832",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_9b9c5cd5e85877c9",
+      "slug": "fashion-beat-drop-9b9c5cd5e85877c9",
+      "title": "Fashion Beat Drop",
+      "category": "Music Synchronization",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "image_to_video",
+      "generationMode": "image-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "The girl in the poster keeps changing outfits, clothing references the styles of @image1 @image2, holding the bag from @image3 in her hand, video rhythm references @video.",
+      "source": {
+        "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/53",
+        "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/53",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_9f04baab749e40fc",
+      "slug": "landscape-transition-music-video-9f04baab749e40fc",
+      "title": "Landscape Transition Music Video",
+      "category": "Music Synchronization",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "image_to_video",
+      "generationMode": "image-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "@image1 @image2 @image3 @image4 @image5 @image6 landscape scene images, reference the screen rhythm, transition visual style and music rhythm of @video for beat synchronization.",
+      "source": {
+        "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/55",
+        "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/55",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_9fcf14e41f69a148",
+      "slug": "mirror-breakdown-9fcf14e41f69a148",
+      "title": "Mirror Breakdown",
+      "category": "Emotional Performance",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "image_to_video",
+      "generationMode": "image-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "The woman from @image1 walks to the mirror, looking at herself in the mirror, pose references @image2. After contemplating for a while, suddenly starts to collapse and scream, the action of grabbing the mirror, the emotion and expression of collapsing and screaming completely reference @video1.",
+      "source": {
+        "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/57",
+        "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/57",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_a66ebd766a50c7ea",
+      "slug": "kitten-character-design-a66ebd766a50c7ea",
+      "title": "Kitten Character Design",
+      "category": "Twitter Community",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "reference_to_video",
+      "generationMode": "reference-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "a cute orange tabby kitten with big eyes sitting on a wooden table in a cozy living room, surrounded by a tissue box, a glass of water, and a toy mouse, with detailed character design sheets below showing 3D model views, expressions, poses, and color references, soft natural lighting, warm atmosphere, cinematic depth of field",
+      "source": {
+        "caseUrl": "https://x.com/gptproto/status/2064601178902814752",
+        "originalUrl": "https://x.com/gptproto/status/2064601178902814752",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_afb6047bdcf653b9",
+      "slug": "frozen-warrior-concept-art-afb6047bdcf653b9",
+      "title": "Frozen Warrior Concept Art",
+      "category": "Twitter Community",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "text_to_video",
+      "generationMode": "text-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "concept art of a female warrior and an ice golem in a snowy landscape, detailed character designs with armor and weapons, anime style, wide shot, static camera",
+      "source": {
+        "caseUrl": "https://x.com/noman23761/status/2064597123795173495",
+        "originalUrl": "https://x.com/noman23761/status/2064597123795173495",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_b63507a2752a3757",
+      "slug": "dramatic-roar-close-up-b63507a2752a3757",
+      "title": "Dramatic Roar Close-up",
+      "category": "Emotional Performance",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "image_to_video",
+      "generationMode": "image-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "@image1 as the first frame of the screen, camera rotates and pushes in, character suddenly looks up, character's facial features reference @image2, starts to roar loudly, excited with some comedic color, reference the expression and demeanor of @image3.",
+      "source": {
+        "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/59",
+        "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/59",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_d024c05821ff6852",
+      "slug": "airplane-window-ice-cream-dream-d024c05821ff6852",
+      "title": "Airplane Window Ice Cream Dream",
+      "category": "One-Take Cinematography",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "image_to_video",
+      "generationMode": "image-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "Using @image1 as the first frame, screen zooms into airplane window exterior, clouds slowly drift into the frame, one cloud decorated with colorful candy beans stays centered in the frame, then slowly transforms into the ice cream from @image2. Camera pulls back to cabin interior, @image3 sitting by the window reaches out from outside the window to bring in the ice cream, takes a bite, mouth covered with cream, face beaming with sweet smile. At this moment the video audio is @video1.",
+      "source": {
+        "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/44",
+        "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/44",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_d1ee834d431996a9",
+      "slug": "roller-coaster-pov-d1ee834d431996a9",
+      "title": "Roller Coaster POV",
+      "category": "One-Take Cinematography",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "image_to_video",
+      "generationMode": "image-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "@image1 @image2 @image3 @image4 @image5, subjective perspective one continuous take of thrilling roller coaster shot, the roller coaster speed gets faster and faster.",
+      "source": {
+        "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/47",
+        "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/47",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_d51c29af8e2e4174",
+      "slug": "diver-high-five-at-sea-d51c29af8e2e4174",
+      "title": "diver high five at sea",
+      "category": "Twitter Community",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "text_to_video",
+      "generationMode": "text-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "first person view of a diver on a boat, high five with another diver, clear blue ocean, sunny day, wide angle lens",
+      "source": {
+        "caseUrl": "https://x.com/sphereofai/status/2064988239623225619",
+        "originalUrl": "https://x.com/sphereofai/status/2064988239623225619",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_dd2d03ba434fddaa",
+      "slug": "band-singer-gender-swap-dd2d03ba434fddaa",
+      "title": "Band Singer Gender Swap",
+      "category": "Video Editing & Remixing",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "text_to_video",
+      "generationMode": "text-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "Replace the female lead singer in video 1 with the male lead singer from image 1, movements completely imitate the original video, no camera cuts, band performing music.",
+      "source": {
+        "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/50",
+        "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/50",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_e1d93c3770d1201b",
+      "slug": "anime-chess-battle-storyboard-e1d93c3770d1201b",
+      "title": "Anime Chess Battle Storyboard",
+      "category": "Music Synchronization",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "reference_to_video",
+      "generationMode": "reference-to-video",
+      "durationSeconds": 3,
+      "aspectRatio": "1:1",
+      "prompt": "8-second intellectual battle-style anime combat segment, fitting revenge theme. 0-3 seconds: Female protagonist in storyboard image 1 turns and sits down, camera turns, female protagonist places a chess piece and says 'You lost', reference storyboard image 2. 3-4 seconds: Quick pan camera, turn to opposite man's face close-up, reference storyboard image 3, man gritting teeth, very dissatisfied with the result. 4-6 seconds: Cut camera, overhead shot, woman places a chess piece, people opposite are amazed, reference storyboard image 4. 6-8 seconds: Camera rapidly pans down, screen goes black for transition, then screen gradually brightens, dimly lit room, woman looks at the moonlight outside the window and quietly says 'We'll see', reference storyboard image 5.",
+      "source": {
+        "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/56",
+        "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/56",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_ec021f0cd3cce1b3",
+      "slug": "punk-rock-living-room-ec021f0cd3cce1b3",
+      "title": "punk rock living room",
+      "category": "Twitter Community",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "text_to_video",
+      "generationMode": "text-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "a group of five young women with punk rock style sitting on a couch in a cozy, cluttered living room filled with plants and music posters, a white cat walking away from the camera towards the group, warm ambient lighting, realistic photo style",
+      "source": {
+        "caseUrl": "https://x.com/noman23761/status/2064595569763639713",
+        "originalUrl": "https://x.com/noman23761/status/2064595569763639713",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_f8dd1ee25831b2ab",
+      "slug": "dynamic-portrait-beat-sync-f8dd1ee25831b2ab",
+      "title": "Dynamic Portrait Beat Sync",
+      "category": "Music Synchronization",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "image_to_video",
+      "generationMode": "image-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "@image1 @image2 @image3 @image4 @image5 @image6 @image7 images sync to the keyframe positions and overall rhythm of @video, characters in the frame more dynamic, overall visual style more dreamy, strong visual tension. Can change the shot scale of reference images according to music and visual needs, and supplement lighting changes in the frame.",
+      "source": {
+        "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/54",
+        "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/54",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    },
+    {
+      "id": "ipg_case_faa59de917b1ef7e",
+      "slug": "cinematic-football-video-with-ultra-realistic-players-faa59de917b1ef7e",
+      "title": "Cinematic Football Video with Ultra-Realistic Players",
+      "category": "Twitter Community",
+      "tags": [],
+      "model": "seedance-2-5",
+      "domain": "video",
+      "inputMode": "text_to_video",
+      "generationMode": "text-to-video",
+      "aspectRatio": "1:1",
+      "prompt": "Mixed-media cinematic football video featuring ultra-realistic human football players inspired by Image1 and Image2, seamlessly integrated into the ultra-realistic football stadium environment from Image3. Same team, same",
+      "source": {
+        "caseUrl": "https://x.com/auqibhabib/status/2064989700738412551",
+        "originalUrl": "https://x.com/auqibhabib/status/2064989700738412551",
+        "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+      },
+      "attribution": {
+        "sourceName": "Image Prompt Gallery",
+        "repository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
+        "license": "CC-BY-4.0 style attribution for public derived prompt data; verify original source rights before commercial use."
+      },
+      "review": {
+        "evidenceStatus": "manual_template",
+        "sourceType": "manual_template",
+        "reviewStatus": "published"
+      },
+      "riskNotice": "Commercial use requires checking the original source, model provider terms, brands, likenesses, media rights, and regional availability."
+    }
+  ]
 }

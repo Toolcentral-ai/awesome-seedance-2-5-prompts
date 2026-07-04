@@ -1,6 +1,6 @@
 {
   "schemaVersion": "2026-07-02",
-  "generatedAt": "2026-07-02T14:46:25.524Z",
+  "generatedAt": "2026-07-04T12:47:31.925Z",
   "source": {
     "name": "Image Prompt Gallery",
     "url": "https://imagepromptgallery.com",
@@ -8,6 +8,175 @@
     "openRepository": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts",
     "exportSource": "snapshot-fallback"
   },
-  "count": 0,
-  "prompts": []
+  "count": 24,
+  "prompts": [
+    {
+      "id": "ipg_case_1c02bebbd7be7d8c",
+      "slug": "shark-photobomb-1c02bebbd7be7d8c",
+      "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/51",
+      "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/51",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_2411b7aa89b29f68",
+      "slug": "vortex-over-the-city-2411b7aa89b29f68",
+      "caseUrl": "https://x.com/Pixmax_ai/status/2064593399882432615",
+      "originalUrl": "https://x.com/Pixmax_ai/status/2064593399882432615",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_2777a8346b2a273d",
+      "slug": "parkour-chase-sequence-2777a8346b2a273d",
+      "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/43",
+      "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/43",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_40eedbe96cdadedd",
+      "slug": "cozy-cabin-tea-time-40eedbe96cdadedd",
+      "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/46",
+      "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/46",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_4647f964b5916fa5",
+      "slug": "spy-thriller-tail-4647f964b5916fa5",
+      "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/45",
+      "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/45",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_5b442e28ead8eee5",
+      "slug": "dark-fantasy-battle-with-practical-effects-5b442e28ead8eee5",
+      "caseUrl": "https://x.com/BuildFastWithAI/status/2064595921443139684",
+      "originalUrl": "https://x.com/BuildFastWithAI/status/2064595921443139684",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_5d0753a7de87b317",
+      "slug": "sci-fi-robotic-spider-on-a-running-track-5d0753a7de87b317",
+      "caseUrl": "https://x.com/AvelyrahnAI/status/2064608055908868501",
+      "originalUrl": "https://x.com/AvelyrahnAI/status/2064608055908868501",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_60a6c8a0b89e8d5b",
+      "slug": "cooking-contrast-comedy-60a6c8a0b89e8d5b",
+      "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/58",
+      "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/58",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_66a91fa33fdf0525",
+      "slug": "serious-business-to-snack-deal-66a91fa33fdf0525",
+      "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/49",
+      "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/49",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_87fa21ce8a43de0a",
+      "slug": "coffee-power-87fa21ce8a43de0a",
+      "caseUrl": "https://x.com/minchinEdits/status/2064606613865103832",
+      "originalUrl": "https://x.com/minchinEdits/status/2064606613865103832",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_9b9c5cd5e85877c9",
+      "slug": "fashion-beat-drop-9b9c5cd5e85877c9",
+      "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/53",
+      "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/53",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_9f04baab749e40fc",
+      "slug": "landscape-transition-music-video-9f04baab749e40fc",
+      "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/55",
+      "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/55",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_9fcf14e41f69a148",
+      "slug": "mirror-breakdown-9fcf14e41f69a148",
+      "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/57",
+      "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/57",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_a66ebd766a50c7ea",
+      "slug": "kitten-character-design-a66ebd766a50c7ea",
+      "caseUrl": "https://x.com/gptproto/status/2064601178902814752",
+      "originalUrl": "https://x.com/gptproto/status/2064601178902814752",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_afb6047bdcf653b9",
+      "slug": "frozen-warrior-concept-art-afb6047bdcf653b9",
+      "caseUrl": "https://x.com/noman23761/status/2064597123795173495",
+      "originalUrl": "https://x.com/noman23761/status/2064597123795173495",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_b63507a2752a3757",
+      "slug": "dramatic-roar-close-up-b63507a2752a3757",
+      "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/59",
+      "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/59",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_d024c05821ff6852",
+      "slug": "airplane-window-ice-cream-dream-d024c05821ff6852",
+      "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/44",
+      "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/44",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_d1ee834d431996a9",
+      "slug": "roller-coaster-pov-d1ee834d431996a9",
+      "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/47",
+      "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/47",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_d51c29af8e2e4174",
+      "slug": "diver-high-five-at-sea-d51c29af8e2e4174",
+      "caseUrl": "https://x.com/sphereofai/status/2064988239623225619",
+      "originalUrl": "https://x.com/sphereofai/status/2064988239623225619",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_dd2d03ba434fddaa",
+      "slug": "band-singer-gender-swap-dd2d03ba434fddaa",
+      "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/50",
+      "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/50",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_e1d93c3770d1201b",
+      "slug": "anime-chess-battle-storyboard-e1d93c3770d1201b",
+      "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/56",
+      "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/56",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_ec021f0cd3cce1b3",
+      "slug": "punk-rock-living-room-ec021f0cd3cce1b3",
+      "caseUrl": "https://x.com/noman23761/status/2064595569763639713",
+      "originalUrl": "https://x.com/noman23761/status/2064595569763639713",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_f8dd1ee25831b2ab",
+      "slug": "dynamic-portrait-beat-sync-f8dd1ee25831b2ab",
+      "caseUrl": "https://www.atlascloud.ai/seedance-2-prompt/54",
+      "originalUrl": "https://www.atlascloud.ai/seedance-2-prompt/54",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    },
+    {
+      "id": "ipg_case_faa59de917b1ef7e",
+      "slug": "cinematic-football-video-with-ultra-realistic-players-faa59de917b1ef7e",
+      "caseUrl": "https://x.com/auqibhabib/status/2064989700738412551",
+      "originalUrl": "https://x.com/auqibhabib/status/2064989700738412551",
+      "repositoryUrl": "https://github.com/Toolcentral-ai/awesome-seedance-2-5-prompts"
+    }
+  ]
 }

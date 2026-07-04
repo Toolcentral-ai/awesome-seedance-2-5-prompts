@@ -1,6 +1,66 @@
 {
   "schemaVersion": "2026-07-02",
-  "generatedAt": "2026-07-02T14:46:25.524Z",
-  "count": 0,
-  "categories": []
+  "generatedAt": "2026-07-04T12:47:31.925Z",
+  "count": 5,
+  "categories": [
+    {
+      "slug": "twitter-community",
+      "title": "Twitter Community",
+      "count": 9,
+      "promptSlugs": [
+        "vortex-over-the-city-2411b7aa89b29f68",
+        "dark-fantasy-battle-with-practical-effects-5b442e28ead8eee5",
+        "sci-fi-robotic-spider-on-a-running-track-5d0753a7de87b317",
+        "coffee-power-87fa21ce8a43de0a",
+        "kitten-character-design-a66ebd766a50c7ea",
+        "frozen-warrior-concept-art-afb6047bdcf653b9",
+        "diver-high-five-at-sea-d51c29af8e2e4174",
+        "punk-rock-living-room-ec021f0cd3cce1b3",
+        "cinematic-football-video-with-ultra-realistic-players-faa59de917b1ef7e"
+      ]
+    },
+    {
+      "slug": "one-take-cinematography",
+      "title": "One-Take Cinematography",
+      "count": 5,
+      "promptSlugs": [
+        "parkour-chase-sequence-2777a8346b2a273d",
+        "cozy-cabin-tea-time-40eedbe96cdadedd",
+        "spy-thriller-tail-4647f964b5916fa5",
+        "airplane-window-ice-cream-dream-d024c05821ff6852",
+        "roller-coaster-pov-d1ee834d431996a9"
+      ]
+    },
+    {
+      "slug": "music-synchronization",
+      "title": "Music Synchronization",
+      "count": 4,
+      "promptSlugs": [
+        "fashion-beat-drop-9b9c5cd5e85877c9",
+        "landscape-transition-music-video-9f04baab749e40fc",
+        "anime-chess-battle-storyboard-e1d93c3770d1201b",
+        "dynamic-portrait-beat-sync-f8dd1ee25831b2ab"
+      ]
+    },
+    {
+      "slug": "emotional-performance",
+      "title": "Emotional Performance",
+      "count": 3,
+      "promptSlugs": [
+        "cooking-contrast-comedy-60a6c8a0b89e8d5b",
+        "mirror-breakdown-9fcf14e41f69a148",
+        "dramatic-roar-close-up-b63507a2752a3757"
+      ]
+    },
+    {
+      "slug": "video-editing-remixing",
+      "title": "Video Editing & Remixing",
+      "count": 3,
+      "promptSlugs": [
+        "shark-photobomb-1c02bebbd7be7d8c",
+        "serious-business-to-snack-deal-66a91fa33fdf0525",
+        "band-singer-gender-swap-dd2d03ba434fddaa"
+      ]
+    }
+  ]
 }
